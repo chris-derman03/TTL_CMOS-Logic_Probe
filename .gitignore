@@ -1,0 +1,12 @@
+# KiCad history and backups
+.history/
+_restore_backup_*/
+*-backups/
+
+# Local KiCad preferences
+*.kicad_prl
+
+# Temporary files
+*.lck
+~*.lck
+*.tmp

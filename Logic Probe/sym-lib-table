@@ -1,0 +1,11 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "4001 Quad NOR") (type "KiCad") (uri "C:/Users/garybobster/Data/Electronics/Logic Probe/resources/4001 Quad NOR/MC14001BDR2G.kicad_sym") (options "") (descr ""))
+	(lib (name "4013 Dual FF") (type "KiCad") (uri "C:/Users/garybobster/Data/Electronics/Logic Probe/resources/4013 Dual FF/KiCADv6/2026-10-03_08-29-16.kicad_sym") (options "") (descr ""))
+	(lib (name "LM339 Quad Comp") (type "KiCad") (uri "C:/Users/garybobster/Data/Electronics/Logic Probe/resources/LM339 Quad Comparator/KiCADv6/2026-10-03_08-37-22.kicad_sym") (options "") (descr ""))
+	(lib (name "DPDT Same Sky") (type "KiCad") (uri "C:/Users/garybobster/Data/Electronics/Logic Probe/resources/DPDT/SLW-135987-5A-N-D.kicad_sym") (options "") (descr ""))
+	(lib (name "RMCF0805JT12K0") (type "KiCad") (uri "C:/Users/garybobster/Data/Electronics/Logic Probe/resources/RMCF0805JT12K0/RMCF0805JT12K0.kicad_sym") (options "") (descr ""))
+	(lib (name "8734") (type "KiCad") (uri "C:/Users/garybobster/Data/Electronics/Logic Probe/resources/8734/8734.kicad_sym") (options "") (descr ""))
+	(lib (name "SPST Push") (type "KiCad") (uri "C:/Users/garybobster/Data/Electronics/Logic Probe/resources/SPST Push/TL1105BF160Q.kicad_sym") (options "") (descr ""))
+	(lib (name "LED Green") (type "KiCad") (uri "C:/Users/garybobster/Data/Electronics/Logic Probe/resources/LED Green/WL-SMTW_3528_150141XX73140.kicad_sym") (options "") (descr ""))
+)
